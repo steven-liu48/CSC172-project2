@@ -1,10 +1,8 @@
 Name: Winnie Wan
 BB ID: wwan5
-wwan5@u.rochester.edu
 
 Name: Xiaoxiang Liu
 BB ID: xliu102
-xliu102@u.rochester.edu
 
 Date: March 9, 2019
 Project 2
